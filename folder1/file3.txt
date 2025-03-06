@@ -1,0 +1,3 @@
+hi
+hello
+this file3 of folder2
