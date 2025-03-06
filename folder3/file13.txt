@@ -1,2 +1,4 @@
-modifying file13
+
+hi this  is file13 of folder3
+>>>>>>> first
 

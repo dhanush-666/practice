@@ -1,1 +1,4 @@
-modifying in file1 in master 
+<<<<<<< HEAD
+
+this  is file1 of folder2
+

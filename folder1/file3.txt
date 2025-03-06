@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 modifying file3
+

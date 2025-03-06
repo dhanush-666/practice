@@ -1,2 +1,4 @@
-modyfing file12
+<<<<<<< HEAD
+hi this  is file12 of folder3
+>>>>>>> first
 

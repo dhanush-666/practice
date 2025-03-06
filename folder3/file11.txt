@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 modifying file11
+
+this file11 of folder3
+
 

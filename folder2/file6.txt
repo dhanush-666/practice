@@ -1,2 +1,4 @@
-modyfing file6
+ 
+this fil6 of folder2
+
 
