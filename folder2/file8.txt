@@ -1,0 +1,4 @@
+hello
+hi 
+this is file8 of folder2
+
